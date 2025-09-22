@@ -50,15 +50,28 @@
 ### Oldalak
 **1. Landing / Home**
 
+![LandingHomaPage](https://github.com/oli-tolnai/olab1/blob/main/kepek/1.%20Landing%20%20Home.jpeg)
+
 **2. Regisztráció / Bejelentkezés**
 
 **3. Dashboard (főmenü)**
 
+![Dashboard (főmenü)](https://github.com/oli-tolnai/olab1/blob/main/kepek/3.%20Dashboard%20(f%C5%91men%C3%BC).jpeg)
+
+
+![Dashboard (főmenü)](https://github.com/oli-tolnai/olab1/blob/main/kepek/alternativa.png)
+
 **4. Gyakorlás beállítása**
+
+![Gyakorlás beállítása](https://github.com/oli-tolnai/olab1/blob/main/kepek/4.%20Gyakorl%C3%A1s%20be%C3%A1ll%C3%ADt%C3%A1sa.jpeg)
 
 **5. Kvíz nézet**
 
+![Kvíz nézet](https://github.com/oli-tolnai/olab1/blob/main/kepek/5.%20Kv%C3%ADz%20n%C3%A9zet.jpeg)
+
 **6. Eredmény oldal**
+
+![Eredmény oldal](https://github.com/oli-tolnai/olab1/blob/main/kepek/6.%20Eredm%C3%A9ny.jpeg)
 
 **7. Profil oldal**
 
